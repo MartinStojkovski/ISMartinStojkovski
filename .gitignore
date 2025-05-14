@@ -1,0 +1,28 @@
+# Build output
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+# the packages folder can be ignored if you're restoring from packages.config
+packages/
+
+# EF Core Migrations folder
+Migrations/
+
+# Secret / local config
+appsettings.*.json
